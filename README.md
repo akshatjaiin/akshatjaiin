@@ -1,23 +1,49 @@
-## Hi there 👋
+# Hi there! 👋 I'm Akshat Jain
 
-<!--
-**akshatjaiin/akshatjaiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about exploring new technologies, creating meaningful projects, and contributing to the community. Here's a little about what I'm up to:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🔭 I’m currently working on my book store website, game on ocean literacy.
-🌱 I’m currently learning ml from kaggle, webdev from cs50.
-👯 I’m looking to collaborate on godot game on ocean literacy unesco.
-🤔 I’m looking for help with game dev.
-💬 Ask me anything.
-📫 How to reach me: message on akshatjain1567@gmail.com
-😄 Pronouns: He/Him
+## 🌊 About Me
+
+- 🔭 **Currently Working On:**  
+  I'm developing a **bookstore website** and a **game on ocean literacy** that aims to educate players about the importance of our oceans, inspired by UNESCO's ocean literacy principles.
+
+- 🌱 **Currently Learning:**  
+  I'm diving deep into **machine learning** through Kaggle courses and honing my **web development** skills through Harvard's CS50 program. Learning never stops!
+
+- 👯 **Looking to Collaborate On:**  
+  I'm excited to collaborate on my **Godot game project focused on ocean literacy**. If you're passionate about game development or environmental education, let's connect!
+
+- 🤔 **Looking for Help With:**  
+  I'm looking for guidance and mentorship in **game development**. If you have experience in this field or just want to share your thoughts, I'd love to hear from you!
+
+---
+
+## 💬 Let's Connect!
+
+- 📨 **Reach Me At:**  
+  You can message me directly at **akshatjain1567@gmail.com**. I'm open to questions, collaborations, or just a friendly chat!
+
+- 😄 **Pronouns:** He/Him
+
+---
+
+## ⚡ Fun Facts
+
+- I'm deeply committed to blending **education and technology** through engaging projects.
+- A lifelong learner with a keen interest in **AI**, **game dev**, and **sustainable tech** solutions.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatjaiin&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjaiin&layout=compact&theme=radical)
+
+---
+
+Thanks for visiting! Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate. Together, we can make a difference! 🌐🌊
+
+![Wave](https://media.giphy.com/media/l3q2RauzE5Vzf7iYo/giphy.gif)
