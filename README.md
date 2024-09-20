@@ -46,4 +46,3 @@ Welcome to my GitHub profile! I'm passionate about exploring new technologies, c
 
 Thanks for visiting! Feel free to explore my repositories, and don't hesitate to reach out if you want to collaborate. Together, we can make a difference! 🌐🌊
 
-![Wave](https://media.giphy.com/media/l3q2RauzE5Vzf7iYo/giphy.gif)
