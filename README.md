@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on my book store website, game on ocean literacy.
+🌱 I’m currently learning ml from kaggle, webdev from cs50.
+👯 I’m looking to collaborate on godot game on ocean literacy unesco.
+🤔 I’m looking for help with game dev.
+💬 Ask me anything.
+📫 How to reach me: message on akshatjain1567@gmail.com
+😄 Pronouns: He/Him
