@@ -1,5 +1,4 @@
-# Hi there! 👋 I'm Akshat Jain
-
+# Hi there!
 Welcome to my GitHub profile! I'm passionate about exploring new technologies, creating meaningful projects, and contributing to the community. Here's a little about what I'm up to:
 
 ---
@@ -29,8 +28,6 @@ Welcome to my GitHub profile! I'm passionate about exploring new technologies, c
 
 ---
 
-## ⚡ Fun Facts
-
 - I'm deeply committed to blending **education and technology** through engaging projects.
 - A lifelong learner with a keen interest in **AI**, **game dev**, and **sustainable tech** solutions.
 
@@ -38,7 +35,6 @@ Welcome to my GitHub profile! I'm passionate about exploring new technologies, c
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatjaiin&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjaiin&layout=compact&theme=radical)
 
