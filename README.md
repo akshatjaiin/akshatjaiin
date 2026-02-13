@@ -17,16 +17,6 @@
 
 ---
 
-## 🧩 Coding Profiles
-
-<p align="center">
-
-<a href="https://www.hackerrank.com/akshat0">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
 <!-- Hackerrank Badge -->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=akshatjaiin&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -54,16 +44,6 @@
 
 </p>
 
-
----
-
-## 🚀 Featured Projects
-- Smart Civic Issue Detection Platform (Django + ML)
-- MindScape Mental Health Game (RenPy + AI)
-- Data Science Analysis Projects
-- REST APIs & Automation Tools
-
----
 
 ## 🐍 Contribution Graph
 <p align="center">
